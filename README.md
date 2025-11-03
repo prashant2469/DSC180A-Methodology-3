@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Prashant Potluri
-prpotluri@ucsd.edu
+Prashant Potluri and Justin Seo
